@@ -1,0 +1,26 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+input {
+    height: 75px;
+    width: 75px;
+}
+
+#inputlabel {
+    height: 75px;
+    width: 100%;
+    background: #ccc;
+    border: 1px solid black;
+    font-size: 25px;
+    color: black;
+}
